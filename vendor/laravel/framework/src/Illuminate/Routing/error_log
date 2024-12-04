@@ -1,0 +1,2 @@
+[25-Feb-2024 05:40:00 UTC] PHP Fatal error:  Trait "Illuminate\Routing\RouteDependencyResolverTrait" not found in /home4/logicva1/sub_demos/zaphri/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 8
+[25-Feb-2024 05:40:01 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home4/logicva1/sub_demos/zaphri/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 23

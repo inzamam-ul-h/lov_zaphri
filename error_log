@@ -1,0 +1,20 @@
+[23-Feb-2024 15:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home4/logicva1/sub_demos/zaphri/email_test.php:26
+Stack trace:
+#0 /home4/logicva1/sub_demos/zaphri/email_test.php(66): custom_mail()
+#1 {main}
+  thrown in /home4/logicva1/sub_demos/zaphri/email_test.php on line 26
+[23-Feb-2024 15:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home4/logicva1/sub_demos/zaphri/email_test.php:33
+Stack trace:
+#0 /home4/logicva1/sub_demos/zaphri/email_test.php(66): custom_mail()
+#1 {main}
+  thrown in /home4/logicva1/sub_demos/zaphri/email_test.php on line 33
+[23-Feb-2024 15:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home4/logicva1/sub_demos/zaphri/email_test.php:33
+Stack trace:
+#0 /home4/logicva1/sub_demos/zaphri/email_test.php(66): custom_mail()
+#1 {main}
+  thrown in /home4/logicva1/sub_demos/zaphri/email_test.php on line 33
+[23-Feb-2024 15:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home4/logicva1/sub_demos/zaphri/email_test.php:26
+Stack trace:
+#0 /home4/logicva1/sub_demos/zaphri/email_test.php(66): custom_mail()
+#1 {main}
+  thrown in /home4/logicva1/sub_demos/zaphri/email_test.php on line 26

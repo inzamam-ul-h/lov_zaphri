@@ -1,0 +1,1 @@
+<?php echo no_records_available();?>

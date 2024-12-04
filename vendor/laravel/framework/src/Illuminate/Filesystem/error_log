@@ -1,0 +1,1 @@
+[25-Feb-2024 05:40:25 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home4/logicva1/sub_demos/zaphri/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
